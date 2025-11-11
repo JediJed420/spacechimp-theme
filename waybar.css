@@ -1,5 +1,5 @@
-@define-color background #130e17;
-@define-color foreground #c8dee1;
+@define-color background rgba(0,0,0,0.3);
+@define-color foreground #AD8C6F;
 @define-color color0 #130e17;
 @define-color color1 #AD8C6F;
 @define-color color2 #D6A16D;
